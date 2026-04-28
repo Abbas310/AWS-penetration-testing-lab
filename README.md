@@ -59,10 +59,6 @@ This project demonstrates a full penetration testing workflow on a vulnerable we
 - Network-level protections (firewalls, segmentation)
 - Monitoring and logging of suspicious activity
 
----
-
-## Screenshots
-(Insert your screenshots here)
 
 ---
 
